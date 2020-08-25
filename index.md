@@ -1,6 +1,12 @@
+
+<p align="center">
+  <img src="https://github.com/phenome-force/Images/blob/master/redme/Logo.jpg" width="40%" height="40%">
+</p>
+
+<br />
+<br />
+
 ## Welcome to PhenomeForce
-
-
 
 During the last decade, plant phenomics has grown enormously as a research field in agriculture. With incredible technological advancements in computer vision tools, plant phenomics has found many applications, including, for instance, plant species recognition, plant stress quantification, and crop yield prediction. These various applications of plant phenomics have evolved into multiple specialized niches involving national, international, and multi-disciplinary experts (e.g., plant physiologist, breeders, engineers, informatics, etc.). In the meantime, plant phenomics is increasingly accessible to a larger number of researchers worldwide thanks to the introduction of new, cost-effective setups, adaptable phenotyping platforms, and the emergence of open-source image processing software. 
 
@@ -14,9 +20,18 @@ This group is a platform imagined as an interactive “ _metabolic network_ ”,
 
 2. (2) _Building partnerships and resources that address emerging issues and discuss challenges and opportunities in agriculture using novel approaches from diverse disciplines._
 
+<br />
+<br />
+
 ### **Fridays Hands-On**: A Workshop Series in Data+Plant Sciences 
 
 An online and free workshops where invited specialists will introduce the different applications and approaches in plant phenomics. The main focus of the proposed series of workshops, called “Fridays Hands-On Workshop Series,” will be data management and analysis - often the most challenging part of digital phenotyping. Each workshop will include a short theoretical introduction followed by practical data analysis, where the instructors will guide the audience through available and open-source data, tools, and codes. 
+
+<br />  
+
+  **Registration:** [https://forms.gle/2Wdscco7jwwd9zAm9](https://forms.gle/2Wdscco7jwwd9zAm9)
+
+<br />
 
 | Speakers   	| Date   	| Workshop   	|
 |---	|---	|---	|
@@ -29,6 +44,16 @@ An online and free workshops where invited specialists will introduce the differ
 | Henri Chung | 30/Oct | Introduction to Tidymodels |
 | Yufeng Ge | 06/Nov | Leaf-level hyperspectral reflectance to rapidly estimate plant chemical traits |
 | Kelly Robbins & Nicolas Morales | 13/Nov | Getting started with ImageBreed: Managing and storing drone imagery |
+
+<br />
+<br />
+
+<p align="center">
+  <img src="https://github.com/phenome-force/Images/blob/master/redme/WS_1.jpg" width="70%" height="70%">
+</p>
+
+<br />
+<br />
 
 ### YouTube Tutorial
 
