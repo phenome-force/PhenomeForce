@@ -95,7 +95,8 @@ An online and free workshops where invited specialists will introduce the differ
 
 ### Support and Acknowledgments
 
-* **[North American Plant Phenotyping Network (NAPPN)](http://nappn.plant-phenotyping.org)** 
+* [North American Plant Phenotyping Network (NAPPN)](http://nappn.plant-phenotyping.org)
+* [Midwest Big Data Hub (MBDH)](https://midwestbigdatahub.org) 
 
 [Menu](#menu)
 
