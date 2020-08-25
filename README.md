@@ -10,6 +10,7 @@
 <div id="menu" />
 
 ---------------------------------------------
+
 ## Resources
   
    * [Welcome to PhenomeForce](#P0)
@@ -82,6 +83,8 @@ An online and free workshops where invited specialists will introduce the differ
 
 ### YouTube Tutorial
 
+<br />
+
 [Menu](#menu)
 
 <div id="P3" />
@@ -92,11 +95,16 @@ An online and free workshops where invited specialists will introduce the differ
 
 * **Annarita Marrano** (annarita.marrano@umb.edu)
 * **Filipe Matias** (fmatias@wisc.edu)
+ * [GitHub](https://github.com/phenome-force)
+ 
+---------------------------------------------
 
 ### Support and Acknowledgments
 
 * [North American Plant Phenotyping Network (NAPPN)](http://nappn.plant-phenotyping.org)
 * [Midwest Big Data Hub (MBDH)](https://midwestbigdatahub.org) 
+
+<br />
 
 [Menu](#menu)
 
