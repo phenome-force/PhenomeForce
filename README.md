@@ -1,10 +1,25 @@
 # PhenomeForce
 
 <p align="center">
-  <img src="https://github.com/phenome-force/Images/blob/master/redme/Logo.jpg" width="40%" height="40%">
+  <img src="https://raw.githubusercontent.com/phenome-force/Images/master/redme/Logo.jpg" width="40%" height="40%">
 </p>
 
 <br />
+
+
+<div id="menu" />
+
+---------------------------------------------
+## Resources
+  
+   * [Welcome to PhenomeForce](#P0)
+   * [Fridays Hands-On: A Workshop Series in Data+Plant Sciences](#P1)
+   * [YouTube Tutorial](#P2)
+   * [Contact](#P3)
+
+<div id="P0" />
+
+---------------------------------------------
 
 ## Welcome to PhenomeForce
 
@@ -21,7 +36,10 @@ This group is a platform imagined as an interactive “ _metabolic network_ ”,
 2. (2) _Building partnerships and resources that address emerging issues and discuss challenges and opportunities in agriculture using novel approaches from diverse disciplines._
 
 <br />
-<br />
+
+<div id="P1" />
+
+---------------------------------------------
 
 ### **Fridays Hands-On**: A Workshop Series in Data+Plant Sciences 
 
@@ -49,13 +67,20 @@ An online and free workshops where invited specialists will introduce the differ
 <br />
 
 <p align="center">
-  <img src="https://github.com/phenome-force/Images/blob/master/redme/WS_1.jpg" width="70%" height="70%">
+  <img src="https://raw.githubusercontent.com/phenome-force/Images/master/redme/WS_1.jpg" width="70%" height="70%">
 </p>
 
 <br />
-<br />
+
+<div id="P2" />
+
+---------------------------------------------
 
 ### YouTube Tutorial
+
+<div id="P3" />
+
+---------------------------------------------
 
 ### Contact
 
