@@ -11,7 +11,7 @@
 
 ---------------------------------------------
 
-## Resources
+### Resources
   
    * [Welcome to PhenomeForce](#P0)
    * [Fridays Hands-On: A Workshop Series in Data+Plant Sciences](#P1)
@@ -22,7 +22,7 @@
 
 ---------------------------------------------
 
-## Welcome to [PhenomeForce](https://phenome-force.github.io/PhenomeForce/)
+### Welcome to [PhenomeForce](https://phenome-force.github.io/PhenomeForce/)
 
 During the last decade, plant phenomics has grown enormously as a research field in agriculture. With incredible technological advancements in computer vision tools, plant phenomics has found many applications, including, for instance, plant species recognition, plant stress quantification, and crop yield prediction. These various applications of plant phenomics have evolved into multiple specialized niches involving national, international, and multi-disciplinary experts (e.g., plant physiologist, breeders, engineers, informatics, etc.). In the meantime, plant phenomics is increasingly accessible to a larger number of researchers worldwide thanks to the introduction of new, cost-effective setups, adaptable phenotyping platforms, and the emergence of open-source image processing software. 
 
