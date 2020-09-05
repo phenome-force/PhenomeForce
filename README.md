@@ -16,6 +16,7 @@
    * [Welcome to PhenomeForce](#P0)
    * [Fridays Hands-On: A Workshop Series in Data+Plant Sciences](#P1)
    * [YouTube Tutorial](#P2)
+   * [Slack Channel](#P4)
    * [Contact](#P3)
 
 <div id="P0" />
@@ -75,6 +76,35 @@ An online and free workshops where invited specialists will introduce the differ
 
 <br />
 
+**Preparing for the next workshop:**
+
+1) FIELDimageR pipeline: Image analyses applied to plant breeding
+
+Install: 
+*	[R software](https://www.r-project.org)
+*	[RStudio](https://rstudio.com)
+
+Packages:
+*	install.packages("sp")
+*	install.packages("raster")
+*	install.packages("rgdal")
+*	install.packages("ggplot2")
+*	install.packages("agricolae")
+*	install.packages("reshape2")
+*	install.packages("lme4")
+*	install.packages("devtools")
+*	install.packages ("parallel")
+*	install.packages ("foreach")
+*	install.packages ("doParallel")
+*	devtools::install_github("filipematias23/FIELDimageR") 
+
+Reference
+
+* Matias, F.I. (2019). FIELDimageR Pipeline (tutorial). https://github.com/filipematias23/FIELDimageR
+* Matias, F.I.; Caraza-Harter, M.; Endelman, J.B. (2020). FIELDimageR: A R Package to Analyze Orthomosaic Images from Agricultural Field Trials. The Plant Phenome Journal. DOI:10.1002/ppj2.20005
+
+<br />
+
 [Menu](#menu)
 
 <div id="P2" />
@@ -84,6 +114,20 @@ An online and free workshops where invited specialists will introduce the differ
 ### YouTube Tutorial
 
 <br />
+
+New videos coming soon...
+
+[Menu](#menu)
+
+<div id="P4" />
+
+---------------------------------------------
+
+### Slack Channel
+
+<br />
+
+***PhenomeForce* Slack Channel** is a single place for our community to share messages, tools, pipelines, and files. All main areas of plant phenotyping are being covered by specialists enthusiastic to share their knowledge. If you are interested to be part of this group, please send a message to *phenomeforce@gmail.com*.
 
 [Menu](#menu)
 
