@@ -93,10 +93,12 @@ Packages:
 *	install.packages("reshape2")
 *	install.packages("lme4")
 *	install.packages("devtools")
-*	install.packages ("parallel")
-*	install.packages ("foreach")
-*	install.packages ("doParallel")
-*	devtools::install_github("filipematias23/FIELDimageR") 
+*	install.packages("parallel")
+*	install.packages("foreach")
+*	install.packages("doParallel")
+* install.packages("plyr")
+* install.packages("DescTools")
+* devtools::install_github("filipematias23/FIELDimageR")
 
 Reference
 
