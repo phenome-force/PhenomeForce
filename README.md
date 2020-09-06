@@ -127,7 +127,7 @@ New videos coming soon...
 
 <br />
 
-***PhenomeForce* Slack Channel** is a single place for our community to share messages, tools, pipelines, and files. All main areas of plant phenotyping are being covered by specialists enthusiastic to share their knowledge. If you are interested to be part of this group, please send a message to *phenomeforce@gmail.com*.
+***PhenomeForce* Slack Channel** is a single place for our community to share messages, tools, pipelines, and files. All main areas of plant phenotyping are being covered by specialists enthusiastic to share their knowledge. If you are interested to be part of this group, please send a message to ***phenomeforce@gmail.com***.
 
 [Menu](#menu)
 
