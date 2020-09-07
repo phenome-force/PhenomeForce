@@ -35,7 +35,7 @@ This group is a platform imagined as an interactive “ _metabolic network_ ”,
 
 1. _Bringing together a broad network of experts to share information on data and data science-related projects, collaborations, tools, practices, and discoveries._ 
 
-2. (2) _Building partnerships and resources that address emerging issues and discuss challenges and opportunities in agriculture using novel approaches from diverse disciplines._
+2. _Building partnerships and resources that address emerging issues and discuss challenges and opportunities in agriculture using novel approaches from diverse disciplines._
 
 <br />
 
