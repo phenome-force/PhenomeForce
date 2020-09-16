@@ -60,7 +60,7 @@ An online and free workshops where invited specialists will introduce the differ
 | Filipe Matias | 18/Sep | FIELDimageR pipeline: Image analyses applied to plant breeding |
 | Mitchell Feldmann | 25/Sep | Quantizing and Quantifying Fruit and Leaf Shape in the Latent Space Using R |
 | Chenyong Miao | 02/Oct | Conducting semantic segmentation on plant hyperspectral images using Python scikit-learn machine learning library |
-| Ana Maria Heilman, Salvador Gezan, Johan Aparicio, Didier Murillo | 09/Oct | Coming soon … | 
+| Ana Maria Heilman, Salvador Gezan, Johan Aparicio, Didier Murillo | 09/Oct | Mr.Bean: An R-Shiny Web Application for  the Analysis of Plant Breeding Experiments | 
 | India Johnson | 16/Oct | Getting Started with WebODM: An Open-Source Solution to Your Mapping Problems |
 | Malia Gehan, Haley Schuhl, Noah Fahlgren | 23/Oct | An introduction to image analysis workflows with PlantCV |
 | Henri Chung | 30/Oct | Introduction to Tidymodels |
@@ -113,7 +113,7 @@ Reference
 
 ---------------------------------------------
 
-### YouTube Tutorial
+### YouTube
 
 <br />
 
@@ -141,6 +141,7 @@ New videos coming soon...
 
 * **Annarita Marrano** (annarita.marrano@umb.edu)
 * **Filipe Matias** (fmatias@wisc.edu)
+* **Noah Fahlgren** (nfahlgren@danforthcenter.org)
  * [GitHub](https://github.com/phenome-force)
  
 ---------------------------------------------
