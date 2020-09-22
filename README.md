@@ -71,39 +71,30 @@ An online and free workshops where invited specialists will introduce the differ
 <br />
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/phenome-force/Images/master/redme/WS_1.jpg" width="70%" height="70%">
+  <img src="https://raw.githubusercontent.com/phenome-force/Images/master/redme/WS_2.jpg" width="70%" height="70%">
 </p>
 
 <br />
 
 **Preparing for the next workshop:**
 
-1) FIELDimageR pipeline: Image analyses applied to plant breeding
+2) Quantizing and Quantifying Fruit and Leaf Shape in the Latent Space Using R
 
 Install: 
 *	[R software](https://www.r-project.org)
 *	[RStudio](https://rstudio.com)
 
 Packages:
-*	install.packages("sp")
-*	install.packages("raster")
-*	install.packages("rgdal")
-*	install.packages("ggplot2")
-*	install.packages("agricolae")
-*	install.packages("reshape2")
-*	install.packages("lme4")
-*	install.packages("devtools")
-*	install.packages("parallel")
-*	install.packages("foreach")
-*	install.packages("doParallel")
-* install.packages("plyr")
-* install.packages("DescTools")
-* devtools::install_github("filipematias23/FIELDimageR")
+*	lattice 0.20-41
+* ggplot2 3.3.2
+* MOMOCS 1.3.0
+* LAVAAN 0.6-7
+* Imager 0.42.3
 
 Reference
-
-* Matias, F.I. (2019). FIELDimageR Pipeline (tutorial). https://github.com/filipematias23/FIELDimageR
-* Matias, F.I.; Caraza-Harter, M.; Endelman, J.B. (2020). FIELDimageR: A R Package to Analyze Orthomosaic Images from Agricultural Field Trials. The Plant Phenome Journal. DOI:10.1002/ppj2.20005
+* [https://academic.oup.com/gigascience/article/9/5/giaa030/5827191](https://academic.oup.com/gigascience/article/9/5/giaa030/5827191)
+* [https://zenodo.org/record/3764216#.X2k8tj-SmMo](https://zenodo.org/record/3764216#.X2k8tj-SmMo)
+* [Tutorial - github](https://github.com/mjfeldmann/2DShapeDescription)
 
 <br />
 
@@ -113,11 +104,14 @@ Reference
 
 ---------------------------------------------
 
-### YouTube
+### [YouTube](https://www.youtube.com/channel/UCJ_ZXrpzvmF4rgSI8W_inyQ)
 
 <br />
 
-New videos coming soon...
+> 1) [FIELDimageR pipeline: Image analyses applied to plant breeding](https://www.youtube.com/watch?v=2khnveYFov8&t=3345s)
+<p align="center">
+<a href="https://www.youtube.com/watch?v=2khnveYFov8&t=3345s"><img src="https://raw.githubusercontent.com/phenome-force/Images/master/redme/WS_1.jpg" width=50% height=50% title="Watch the video"></a>
+</p>
 
 [Menu](#menu)
 
