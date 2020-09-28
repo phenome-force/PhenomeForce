@@ -71,30 +71,31 @@ An online and free workshops where invited specialists will introduce the differ
 <br />
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/phenome-force/Images/master/redme/WS_2.jpg" width="70%" height="70%">
+  <img src="https://raw.githubusercontent.com/phenome-force/Images/master/redme/WS_3.jpg" width="70%" height="70%">
 </p>
 
 <br />
 
 **Preparing for the next workshop:**
 
-2) Quantizing and Quantifying Fruit and Leaf Shape in the Latent Space Using R
+3) Conducting semantic segmentation on plant hyperspectral images using Python scikit-learn machine learning library
 
-Install: 
-*	[R software](https://www.r-project.org)
-*	[RStudio](https://rstudio.com)
+Software: 
+*	python3 (>=3.6) (Code will be run in a python jupyter notebook)
 
-Packages:
-*	lattice 0.20-41
-* ggplot2 3.3.2
-* MOMOCS 1.3.0
-* LAVAAN 0.6-7
-* Imager 0.42.3
+Required libraries (The latest stable version for each library is preferred):
+*	jupyter notebook
+* numpy
+* pandas
+* matplotlib
+* seaborn
+* scikit-learn
+* pillow 
 
 Reference
-* [https://academic.oup.com/gigascience/article/9/5/giaa030/5827191](https://academic.oup.com/gigascience/article/9/5/giaa030/5827191)
-* [https://zenodo.org/record/3764216#.X2k8tj-SmMo](https://zenodo.org/record/3764216#.X2k8tj-SmMo)
-* [Tutorial - github](https://github.com/mjfeldmann/2DShapeDescription)
+* [https://doi.org/10.34133/2020/4216373](https://doi.org/10.34133/2020/4216373)
+* [Workshop Data](https://drive.google.com/file/d/1i9qz5bbvtId9K14PdJN3Esxq3R7shs-_/view?usp=sharing)
+* [https://www.unl.edu/psi/chenyong-miao](https://www.unl.edu/psi/chenyong-miao)
 
 <br />
 
@@ -112,6 +113,15 @@ Reference
 <p align="center">
 <a href="https://www.youtube.com/watch?v=2khnveYFov8&t=3345s"><img src="https://raw.githubusercontent.com/phenome-force/Images/master/redme/WS_1.jpg" width=50% height=50% title="Watch the video"></a>
 </p>
+
+<br />
+
+> 2) [Quantizing and Quantifying Fruit and Leaf Shape in the Latent Space Using R](https://www.youtube.com/watch?v=MRUlUho3uIg)
+<p align="center">
+<a href="https://www.youtube.com/watch?v=MRUlUho3uIg"><img src="https://raw.githubusercontent.com/phenome-force/Images/master/redme/WS_2b.jpg" width=50% height=50% title="Watch the video"></a>
+</p>
+
+
 
 [Menu](#menu)
 
