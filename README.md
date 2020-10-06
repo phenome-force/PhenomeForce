@@ -71,31 +71,22 @@ An online and free workshops where invited specialists will introduce the differ
 <br />
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/phenome-force/Images/master/redme/WS_3.jpg" width="70%" height="70%">
+  <img src="https://raw.githubusercontent.com/phenome-force/Images/master/redme/WS_4.jpg" width="70%" height="70%">
 </p>
 
 <br />
 
 **Preparing for the next workshop:**
 
-3) Conducting semantic segmentation on plant hyperspectral images using Python scikit-learn machine learning library
+4) Mr.Bean: An R-Shiny Web Application for  the Analysis of Plant Breeding Experiments
 
 Software: 
-*	python3 (>=3.6) (Code will be run in a python jupyter notebook)
-
-Required libraries (The latest stable version for each library is preferred):
-*	jupyter notebook
-* numpy
-* pandas
-* matplotlib
-* seaborn
-* scikit-learn
-* pillow 
+*	[R/Shiny Application](https://shiny.rstudio.com)
 
 Reference
-* [https://doi.org/10.34133/2020/4216373](https://doi.org/10.34133/2020/4216373)
-* [Workshop Data](https://drive.google.com/file/d/1i9qz5bbvtId9K14PdJN3Esxq3R7shs-_/view?usp=sharing)
-* [https://www.unl.edu/psi/chenyong-miao](https://www.unl.edu/psi/chenyong-miao)
+* [https://github.com/AparicioJohan/MrBeanApp](https://github.com/AparicioJohan/MrBeanApp)
+* [https://beanteam.shinyapps.io/MrBean/_w_c6173628/](https://beanteam.shinyapps.io/MrBean/_w_c6173628/)
+* [https://mrpackages.netlify.app/mrbean.html](https://mrpackages.netlify.app/mrbean.html)
 
 <br />
 
@@ -121,7 +112,12 @@ Reference
 <a href="https://www.youtube.com/watch?v=MRUlUho3uIg"><img src="https://raw.githubusercontent.com/phenome-force/Images/master/redme/WS_2b.jpg" width=50% height=50% title="Watch the video"></a>
 </p>
 
+<br />
 
+> 3) [Conducting semantic segmentation on plant hyperspectral images using Python scikit-learn machine learning library](https://www.youtube.com/watch?v=N-j9QAo9VNk)
+<p align="center">
+<a href="https://www.youtube.com/watch?v=N-j9QAo9VNk"><img src="https://raw.githubusercontent.com/phenome-force/Images/master/redme/WS_3.jpg" width=50% height=50% title="Watch the video"></a>
+</p>
 
 [Menu](#menu)
 
