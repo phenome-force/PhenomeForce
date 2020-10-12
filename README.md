@@ -102,6 +102,7 @@ Reference
 <br />
 
 > 1) [FIELDimageR pipeline: Image analyses applied to plant breeding](https://www.youtube.com/watch?v=2khnveYFov8&t=3345s)
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/phenome-force/Images/master/redme/WS_1.jpg" width="50%" height="50%">
 </p>
@@ -109,6 +110,7 @@ Reference
 <br />
 
 > 2) [Quantizing and Quantifying Fruit and Leaf Shape in the Latent Space Using R](https://www.youtube.com/watch?v=MRUlUho3uIg)
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/phenome-force/Images/master/redme/WS_2b.jpg" width="50%" height="50%">
 </p>
@@ -116,6 +118,7 @@ Reference
 <br />
 
 > 3) [Conducting semantic segmentation on plant hyperspectral images using Python scikit-learn machine learning library](https://www.youtube.com/watch?v=N-j9QAo9VNk)
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/phenome-force/Images/master/redme/WS_3.jpg" width="50%" height="50%">
 </p>
@@ -123,6 +126,7 @@ Reference
 <br />
 
 > 4) [Mr.Bean: An R-Shiny Web Application for  the Analysis of Plant Breeding Experiments](https://www.youtube.com/watch?v=rAEjoyZEUnU)
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/phenome-force/Images/master/redme/WS_4.jpg" width="50%" height="50%">
 </p>
