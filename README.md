@@ -71,22 +71,23 @@ An online and free workshops where invited specialists will introduce the differ
 <br />
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/phenome-force/Images/master/redme/WS_4.jpg" width="70%" height="70%">
+  <img src="https://raw.githubusercontent.com/phenome-force/Images/master/redme/WS_5.jpg" width="70%" height="70%">
 </p>
 
 <br />
 
 **Preparing for the next workshop:**
 
-4) Mr.Bean: An R-Shiny Web Application for  the Analysis of Plant Breeding Experiments
+5) Getting Started with WebODM: An Open-Source Solution to Your Mapping Problems
 
 Software: 
-*	[R/Shiny Application](https://shiny.rstudio.com)
+*	WebODM environment requirements: [https://github.com/OpenDroneMap/WebODM#getting-started](https://github.com/OpenDroneMap/WebODM#getting-started)
+* Resources for attendees: [https://dronecamp.github.io/2020/index.html#schedule-at-a-glance](https://dronecamp.github.io/2020/index.html#schedule-at-a-glance)
 
 Reference
-* [https://github.com/AparicioJohan/MrBeanApp](https://github.com/AparicioJohan/MrBeanApp)
-* [https://beanteam.shinyapps.io/MrBean/_w_c6173628/](https://beanteam.shinyapps.io/MrBean/_w_c6173628/)
-* [https://mrpackages.netlify.app/mrbean.html](https://mrpackages.netlify.app/mrbean.html)
+* [WebODM](https://www.opendronemap.org/webodm/)
+* [https://dronecamp.github.io/2020/2020-06-23.html#introduction-to-drone-photogrammetry-and-data-processing](https://dronecamp.github.io/2020/2020-06-23.html#introduction-to-drone-photogrammetry-and-data-processing)
+* [https://dronecamp.github.io/2020/2020-06-24.html#open-source-data-processing-with-opendronemap](https://dronecamp.github.io/2020/2020-06-24.html#open-source-data-processing-with-opendronemap)
 
 <br />
 
@@ -117,6 +118,13 @@ Reference
 > 3) [Conducting semantic segmentation on plant hyperspectral images using Python scikit-learn machine learning library](https://www.youtube.com/watch?v=N-j9QAo9VNk)
 <p align="center">
 <a href="https://www.youtube.com/watch?v=N-j9QAo9VNk"><img src="https://raw.githubusercontent.com/phenome-force/Images/master/redme/WS_3.jpg" width=50% height=50% title="Watch the video"></a>
+</p>
+
+<br />
+
+> 4) [Mr.Bean: An R-Shiny Web Application for  the Analysis of Plant Breeding Experiments](https://www.youtube.com/watch?v=rAEjoyZEUnU)
+<p align="center">
+<a href="https://www.youtube.com/watch?v=rAEjoyZEUnU"><img src="https://raw.githubusercontent.com/phenome-force/Images/master/redme/WS_4.jpg" width=50% height=50% title="Watch the video"></a>
 </p>
 
 [Menu](#menu)
