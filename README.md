@@ -71,23 +71,20 @@ An online and free workshops where invited specialists will introduce the differ
 <br />
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/phenome-force/Images/master/redme/WS_5.jpg" width="70%" height="70%">
+  <img src="https://raw.githubusercontent.com/phenome-force/Images/master/redme/WS_6.jpg" width="70%" height="70%">
 </p>
 
 <br />
 
 **Preparing for the next workshop:**
 
-5) Getting Started with WebODM: An Open-Source Solution to Your Mapping Problems
-
-Software: 
-*	WebODM environment requirements: [https://github.com/OpenDroneMap/WebODM#getting-started](https://github.com/OpenDroneMap/WebODM#getting-started)
-* Resources for attendees: [https://dronecamp.github.io/2020/index.html#schedule-at-a-glance](https://dronecamp.github.io/2020/index.html#schedule-at-a-glance)
+6) An introduction to image analysis workflows with PlantCV
 
 Reference
-* [WebODM](https://www.opendronemap.org/webodm/)
-* [https://dronecamp.github.io/2020/2020-06-23.html#introduction-to-drone-photogrammetry-and-data-processing](https://dronecamp.github.io/2020/2020-06-23.html#introduction-to-drone-photogrammetry-and-data-processing)
-* [https://dronecamp.github.io/2020/2020-06-24.html#open-source-data-processing-with-opendronemap](https://dronecamp.github.io/2020/2020-06-24.html#open-source-data-processing-with-opendronemap)
+* https://plantcv.danforthcenter.org/ 
+* https://plantcv.readthedocs.io/en/stable/
+* https://www.gehan-lab.org/
+* https://www.danforthcenter.org/our-work/principal-investigators/noah-fahlgren/
 
 <br />
 
@@ -129,6 +126,14 @@ Reference
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/phenome-force/Images/master/redme/WS_4.jpg" width="50%" height="50%">
+</p>
+
+<br />
+
+> 5) [Getting Started with WebODM: An Open-Source Solution to Your Mapping Problems](https://www.youtube.com/watch?v=U-bsA7QjzYE&t=4s)
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/phenome-force/Images/master/redme/WS_5.jpg" width="50%" height="50%">
 </p>
 
 [Menu](#menu)
