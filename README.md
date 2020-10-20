@@ -81,10 +81,10 @@ An online and free workshops where invited specialists will introduce the differ
 6) An introduction to image analysis workflows with PlantCV
 
 Reference
-* https://plantcv.danforthcenter.org/ 
-* https://plantcv.readthedocs.io/en/stable/
-* https://www.gehan-lab.org/
-* https://www.danforthcenter.org/our-work/principal-investigators/noah-fahlgren/
+* [https://plantcv.danforthcenter.org/](https://plantcv.danforthcenter.org/)
+* [https://plantcv.readthedocs.io/en/stable/](https://plantcv.readthedocs.io/en/stable/)
+* [https://www.gehan-lab.org/](https://www.gehan-lab.org/)
+* [https://www.danforthcenter.org/our-work/principal-investigators/noah-fahlgren/](https://www.danforthcenter.org/our-work/principal-investigators/noah-fahlgren/)
 
 <br />
 
