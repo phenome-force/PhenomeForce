@@ -66,25 +66,31 @@ An online and free workshops where invited specialists will introduce the differ
 | Henri Chung | 30/Oct | Introduction to Tidymodels |
 | Yufeng Ge | 06/Nov | Leaf-level hyperspectral reflectance to rapidly estimate plant chemical traits |
 | Kelly Robbins & Nicolas Morales | 13/Nov | Getting started with ImageBreed: Managing and storing drone imagery |
+| Larry York | 20/Nov | RhizoVision Explorer for root image analysis |
 
 <br />
 <br />
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/phenome-force/Images/master/redme/WS_6.jpg" width="70%" height="70%">
+  <img src="https://raw.githubusercontent.com/phenome-force/Images/master/redme/WS_7.jpg" width="70%" height="70%">
 </p>
 
 <br />
 
 **Preparing for the next workshop:**
 
-6) An introduction to image analysis workflows with PlantCV
+7) Using Tidymodels in Plant Phenotyping Workflow
 
 Reference
-* [https://plantcv.danforthcenter.org/](https://plantcv.danforthcenter.org/)
-* [https://plantcv.readthedocs.io/en/stable/](https://plantcv.readthedocs.io/en/stable/)
-* [https://www.gehan-lab.org/](https://www.gehan-lab.org/)
-* [https://www.danforthcenter.org/our-work/principal-investigators/noah-fahlgren/](https://www.danforthcenter.org/our-work/principal-investigators/noah-fahlgren/)
+* Papers 
+https://www.jstatsoft.org/article/view/v059i10
+
+* Website Links
+https://www.tidymodels.org/
+https://www.tidyverse.org/
+
+* Code
+https://github.com/henrichung/phenomeforce_tidymodels
 
 <br />
 
@@ -136,6 +142,14 @@ Reference
   <img src="https://raw.githubusercontent.com/phenome-force/Images/master/redme/WS_5.jpg" width="50%" height="50%">
 </p>
 
+<br />
+
+> 6) [An introduction to image analysis workflows with PlantCV](https://www.youtube.com/watch?v=fVoPjvgT400)
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/phenome-force/Images/master/redme/WS_6.jpg" width="50%" height="50%">
+</p>
+
 [Menu](#menu)
 
 <div id="P4" />
@@ -171,5 +185,3 @@ Reference
 <br />
 
 [Menu](#menu)
-
-
