@@ -63,7 +63,7 @@ An online and free workshops where invited specialists will introduce the differ
 | Ana Maria Heilman, Salvador Gezan, Johan Aparicio, Didier Murillo | 09/Oct | Mr.Bean: An R-Shiny Web Application for  the Analysis of Plant Breeding Experiments | 
 | India Johnson | 16/Oct | Getting Started with WebODM: An Open-Source Solution to Your Mapping Problems |
 | Malia Gehan, Haley Schuhl, Noah Fahlgren | 23/Oct | An introduction to image analysis workflows with PlantCV |
-| Henri Chung | 30/Oct | Introduction to Tidymodels |
+| Henri Chung | 30/Oct | Using Tidymodels in Plant Phenotyping Workflow |
 | Yufeng Ge | 06/Nov | Leaf-level hyperspectral reflectance to rapidly estimate plant chemical traits |
 | Kelly Robbins & Nicolas Morales | 13/Nov | Getting started with ImageBreed: Managing and storing drone imagery |
 | Larry York | 20/Nov | RhizoVision Explorer for root image analysis |
@@ -81,16 +81,20 @@ An online and free workshops where invited specialists will introduce the differ
 
 7) Using Tidymodels in Plant Phenotyping Workflow
 
-Reference
-* Papers 
-https://www.jstatsoft.org/article/view/v059i10
+**Reference**
 
-* Website Links
-https://www.tidymodels.org/
-https://www.tidyverse.org/
+**Papers** 
 
-* Code
-https://github.com/henrichung/phenomeforce_tidymodels
+* https://www.jstatsoft.org/article/view/v059i10
+
+**Website Links**
+
+* https://www.tidymodels.org/
+* https://www.tidyverse.org/
+
+**Code**
+
+* https://github.com/henrichung/phenomeforce_tidymodels
 
 <br />
 
