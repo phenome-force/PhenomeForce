@@ -72,29 +72,27 @@ An online and free workshops where invited specialists will introduce the differ
 <br />
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/phenome-force/Images/master/redme/WS_7.jpg" width="70%" height="70%">
+  <img src="https://raw.githubusercontent.com/phenome-force/Images/master/redme/WS_8.jpg" width="70%" height="70%">
 </p>
 
 <br />
 
 **Preparing for the next workshop:**
 
-7) Using Tidymodels in Plant Phenotyping Workflow
+8) Leaf-level hyperspectral reflectance to rapidly estimate plant chemical traits
 
-**Reference**
+Install: 
+*	[R software](https://www.r-project.org)
+*	[RStudio](https://rstudio.com)
 
-**Papers** 
+Packages:
+*	install.packages("pls")
+*	install.packages("prospect")
 
-* https://www.jstatsoft.org/article/view/v059i10
+Reference
 
-**Website Links**
+* Ge et al. (2019). High-throughput analysis of leaf physiological and chemical traits with VIS–NIR–SWIR spectroscopy: a case study with a maize diversity panel. https://doi.org/10.1186/s13007-019-0450-8
 
-* https://www.tidymodels.org/
-* https://www.tidyverse.org/
-
-**Code**
-
-* https://github.com/henrichung/phenomeforce_tidymodels
 
 <br />
 
@@ -154,7 +152,15 @@ An online and free workshops where invited specialists will introduce the differ
   <img src="https://raw.githubusercontent.com/phenome-force/Images/master/redme/WS_6.jpg" width="50%" height="50%">
 </p>
 
-[Menu](#menu)
+<br />
+
+> 7) [Using Tidymodels in Plant Phenotyping Workflow](https://www.youtube.com/watch?v=NAK_J9ViqXg)
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/phenome-force/Images/master/redme/WS_7.jpg" width="50%" height="50%">
+</p>
+
+[Menu](#menu) 
 
 <div id="P4" />
 
