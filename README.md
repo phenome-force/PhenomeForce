@@ -72,26 +72,22 @@ An online and free workshops where invited specialists will introduce the differ
 <br />
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/phenome-force/Images/master/redme/WS_8.jpg" width="70%" height="70%">
+  <img src="https://raw.githubusercontent.com/phenome-force/Images/master/redme/WS_9.jpg" width="70%" height="70%">
 </p>
 
 <br />
 
 **Preparing for the next workshop:**
 
-8) Leaf-level hyperspectral reflectance to rapidly estimate plant chemical traits
+9) Getting started with ImageBreed: Managing and storing drone imagery
 
 Install: 
-*	[R software](https://www.r-project.org)
-*	[RStudio](https://rstudio.com)
-
-Packages:
-*	install.packages("pls")
-*	install.packages("prospect")
+*	Docker: https://www.docker.com/
+*	ImageBreed: https://github.com/nickmorales/breedbase_dockerfile
 
 Reference
-
-* Ge et al. (2019). High-throughput analysis of leaf physiological and chemical traits with VIS–NIR–SWIR spectroscopy: a case study with a maize diversity panel. https://doi.org/10.1186/s13007-019-0450-8
+* https://imagebreed.org/
+* Morales et al. (2020). ImageBreed: Open‐access plant breeding web–database for image‐based phenotyping.  https://doi.org/10.1002/ppj2.20004
 
 
 <br />
@@ -158,6 +154,14 @@ Reference
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/phenome-force/Images/master/redme/WS_7.jpg" width="50%" height="50%">
+</p>
+
+<br />
+
+> 8) [Leaf-level hyperspectral reflectance to rapidly estimate plant chemical traits](https://www.youtube.com/watch?v=KH0XNW0t6-k&t=407s)
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/phenome-force/Images/master/redme/WS_8.jpg" width="50%" height="50%">
 </p>
 
 [Menu](#menu) 
