@@ -66,7 +66,7 @@ An online and free workshops where invited specialists will introduce the differ
 | Henri Chung | 30/Oct | Using Tidymodels in Plant Phenotyping Workflow |
 | Yufeng Ge | 06/Nov | Leaf-level hyperspectral reflectance to rapidly estimate plant chemical traits |
 | Kelly Robbins & Nicolas Morales | 13/Nov | Getting started with ImageBreed: Managing and storing drone imagery |
-| Larry York | 20/Nov | RhizoVision Explorer for root image analysis |
+| Larry York | 20/Nov | Root scanning and image analysis using RhizoVision Explorer |
 
 <br />
 <br />
