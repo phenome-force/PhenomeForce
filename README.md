@@ -72,22 +72,22 @@ An online and free workshops where invited specialists will introduce the differ
 <br />
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/phenome-force/Images/master/redme/WS_9.jpg" width="70%" height="70%">
+  <img src="https://raw.githubusercontent.com/phenome-force/Images/master/redme/WS_10.jpg" width="70%" height="70%">
 </p>
 
 <br />
 
 **Preparing for the next workshop:**
 
-9) Getting started with ImageBreed: Managing and storing drone imagery
+10) Root scanning and image analysis using RhizoVision Explorer
 
 Install: 
-*	Docker: https://www.docker.com/
-*	ImageBreed: https://github.com/nickmorales/breedbase_dockerfile
+*	RhizoVision Explorer: https://zenodo.org/record/4095629#.X7Fi5tNKhBw
+* Tutorial: https://www.dropbox.com/s/9z608gju5ueag8f/RhizoVisionExplorerManual.pdf?dl=0
 
 Reference
-* https://imagebreed.org/
-* Morales et al. (2020). ImageBreed: Open‐access plant breeding web–database for image‐based phenotyping.  https://doi.org/10.1002/ppj2.20004
+* https://doi.org/10.34133/2020/3074916
+* https://doi.org/10.1101/2020.04.16.044461
 
 
 <br />
@@ -162,6 +162,14 @@ Reference
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/phenome-force/Images/master/redme/WS_8.jpg" width="50%" height="50%">
+</p>
+
+<br />
+
+> 9) [Getting started with ImageBreed: Managing and storing drone imagery](https://www.youtube.com/watch?v=yLLaF7sS2Qs&t=497s)
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/phenome-force/Images/master/redme/WS_9.jpg" width="50%" height="50%">
 </p>
 
 [Menu](#menu) 
