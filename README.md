@@ -82,11 +82,15 @@ An online and free workshops where invited specialists will introduce the differ
 10) Root scanning and image analysis using RhizoVision Explorer
 
 Install: 
+
 *	RhizoVision Explorer: [https://zenodo.org/record/4095629#.X7Fi5tNKhBw](https://zenodo.org/record/4095629#.X7Fi5tNKhBw)
+
 * Tutorial: [https://www.dropbox.com/s/9z608gju5ueag8f/RhizoVisionExplorerManual.pdf?dl=0](https://www.dropbox.com/s/9z608gju5ueag8f/RhizoVisionExplorerManual.pdf?dl=0)
 
 Reference
+
 * [https://doi.org/10.34133/2020/3074916](https://doi.org/10.34133/2020/3074916)
+
 * [https://doi.org/10.1101/2020.04.16.044461](https://doi.org/10.1101/2020.04.16.044461)
 
 
