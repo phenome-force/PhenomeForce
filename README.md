@@ -45,54 +45,9 @@ This group is a platform imagined as an interactive “ _metabolic network_ ”,
 
 ---------------------------------------------
 
-### **Fridays Hands-On**: A Workshop Series in Data+Plant Sciences 
+### [**Fridays Hands-On**: A Workshop Series in Data+Plant Sciences](https://www.youtube.com/channel/UCJ_ZXrpzvmF4rgSI8W_inyQ)
 
 An online and free workshops where invited specialists will introduce the different applications and approaches in plant phenomics. The main focus of the proposed series of workshops, called “Fridays Hands-On Workshop Series,” will be data management and analysis - often the most challenging part of digital phenotyping. Each workshop will include a short theoretical introduction followed by practical data analysis, where the instructors will guide the audience through available and open-source data, tools, and codes. 
-
-<br />  
-
-  **Registration:** [https://forms.gle/2Wdscco7jwwd9zAm9](https://forms.gle/2Wdscco7jwwd9zAm9)
-
-<br />
-
-| Speakers   	| Date   	| Workshop   	|
-|---	|---	|---	|
-| Filipe Matias | 18/Sep | FIELDimageR pipeline: Image analyses applied to plant breeding |
-| Mitchell Feldmann | 25/Sep | Quantizing and Quantifying Fruit and Leaf Shape in the Latent Space Using R |
-| Chenyong Miao | 02/Oct | Conducting semantic segmentation on plant hyperspectral images using Python scikit-learn machine learning library |
-| Ana Maria Heilman, Salvador Gezan, Johan Aparicio, Didier Murillo | 09/Oct | Mr.Bean: An R-Shiny Web Application for  the Analysis of Plant Breeding Experiments | 
-| India Johnson | 16/Oct | Getting Started with WebODM: An Open-Source Solution to Your Mapping Problems |
-| Malia Gehan, Haley Schuhl, Noah Fahlgren | 23/Oct | An introduction to image analysis workflows with PlantCV |
-| Henri Chung | 30/Oct | Using Tidymodels in Plant Phenotyping Workflow |
-| Yufeng Ge | 06/Nov | Leaf-level hyperspectral reflectance to rapidly estimate plant chemical traits |
-| Kelly Robbins & Nicolas Morales | 13/Nov | Getting started with ImageBreed: Managing and storing drone imagery |
-| Larry York | 20/Nov | Root scanning and image analysis using RhizoVision Explorer |
-
-<br />
-<br />
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/phenome-force/Images/master/redme/WS_10A.jpg" width="70%" height="70%">
-</p>
-
-<br />
-
-**Preparing for the next workshop:**
-
-10) Root scanning and image analysis using RhizoVision Explorer
-
-Install: 
-
-*	RhizoVision Explorer: [https://zenodo.org/record/4095629#.X7Fi5tNKhBw](https://zenodo.org/record/4095629#.X7Fi5tNKhBw)
-
-* Tutorial: [https://www.dropbox.com/s/9z608gju5ueag8f/RhizoVisionExplorerManual.pdf?dl=0](https://www.dropbox.com/s/9z608gju5ueag8f/RhizoVisionExplorerManual.pdf?dl=0)
-
-Reference
-
-* [https://doi.org/10.34133/2020/3074916](https://doi.org/10.34133/2020/3074916)
-
-* [https://doi.org/10.1101/2020.04.16.044461](https://doi.org/10.1101/2020.04.16.044461)
-
 
 <br />
 
@@ -174,6 +129,14 @@ Reference
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/phenome-force/Images/master/redme/WS_9.jpg" width="50%" height="50%">
+</p>
+
+<br />
+
+> 10) [Root scanning and image analysis using RhizoVision Explorer](https://www.youtube.com/watch?v=DxHnbnwgSGw)
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/phenome-force/Images/master/redme/WS_10A.jpg" width="50%" height="50%">
 </p>
 
 [Menu](#menu) 
