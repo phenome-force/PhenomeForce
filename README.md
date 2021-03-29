@@ -45,13 +45,52 @@ This group is a platform imagined as an interactive “ _metabolic network_ ”,
 
 ---------------------------------------------
 
-### [**Fridays Hands-On**: A Workshop Series in Data+Plant Sciences](https://www.youtube.com/channel/UCJ_ZXrpzvmF4rgSI8W_inyQ)
+### [**2021 Fridays Hands-On Workshop Series**: "Setting up low-cost phenotyping platforms" ](https://www.youtube.com/channel/UCJ_ZXrpzvmF4rgSI8W_inyQ)
 
 An online and free workshops where invited specialists will introduce the different applications and approaches in plant phenomics. The main focus of the proposed series of workshops, called “Fridays Hands-On Workshop Series,” will be data management and analysis - often the most challenging part of digital phenotyping. Each workshop will include a short theoretical introduction followed by practical data analysis, where the instructors will guide the audience through available and open-source data, tools, and codes. 
+
+<br />  
+
+  **Registration:** [https://forms.gle/PVSf3AkxyvncTVrm9](https://forms.gle/PVSf3AkxyvncTVrm9)
+
+<br />
+
+| Speakers   	| Date   	| Workshop   	|
+|---	|---	|---	|
+| Noah Fahlgren & Jeff Berry | 09/Apr | Getting started with Raspberry Pi |
+| Kristina Riemer & David LeBauer | 16/Apr | Using TERRA REF high throughput, sensor-collected plant data with R |
+| David Rousseau | 23/Apr | RGB-Depth plant phenotyping from top view: system and image analysis |
+| Malia Gehan & Jose Tovar | 30/Apr | Measurement of plant phenotypes with innovative Raspberry Pi applications | 
+| Suxing Liu & Wes Bonelli | 07/May | 3D root reconstruction efforts in arpa-e project |
+| Jennifer Lachowiec & Elizabeth Simmons | 14/May | The power of Pis and the powering of Pis |
+| Max Feldman | 21/May | Scalable, cost-effective phenotyping solutions to facilitate quantitative genetics in potato |
+| Duke Pauli | 28/May | Pipeline development for analyses of high throughput data in plant breeding |
+| Jennifer Lin | 04/Jun | Use of an Arduino platform for obtaining long term pH readings in plant tissue |
+
+<br />
+
+**Preparing for the next workshop:**
+
+<br />
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/phenome-force/Images/master/redme/WS_2_1.jpg" width="70%" height="70%">
+</p>
+
+<br />
+
+1) Getting started with Raspberry Pi
+
+Reference
+
+* https://www.danforthcenter.org/our-work/principal-investigators/noah-fahlgren/
+* https://www.danforthcenter.org/our-work/core-facilities/data-science/
 
 <br />
 
 [Menu](#menu)
+
+<br />
 
 <div id="P2" />
 
