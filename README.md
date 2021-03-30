@@ -83,8 +83,8 @@ An online and free workshops where invited specialists will introduce the differ
 
 Reference
 
-* https://www.danforthcenter.org/our-work/principal-investigators/noah-fahlgren/
-* https://www.danforthcenter.org/our-work/core-facilities/data-science/
+* [https://www.danforthcenter.org/our-work/principal-investigators/noah-fahlgren/](https://www.danforthcenter.org/our-work/principal-investigators/noah-fahlgren/)
+* [https://www.danforthcenter.org/our-work/core-facilities/data-science/](https://www.danforthcenter.org/our-work/core-facilities/data-science/)
 
 <br />
 
