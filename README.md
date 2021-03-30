@@ -64,7 +64,7 @@ An online and free workshops where invited specialists will introduce the differ
 | Suxing Liu & Wes Bonelli | 07/May | 3D root reconstruction efforts in arpa-e project |
 | Jennifer Lachowiec & Elizabeth Simmons | 14/May | The power of Pis and the powering of Pis |
 | Max Feldman | 21/May | Scalable, cost-effective phenotyping solutions to facilitate quantitative genetics in potato |
-| Duke Pauli | 28/May | Pipeline development for analyses of high throughput data in plant breeding |
+| Duke Pauli | 28/May | PhytoOracle: A scalable, modular data processing pipeline for phenomic data |
 | Jennifer Lin | 04/Jun | Use of an Arduino platform for obtaining long term pH readings in plant tissue |
 
 <br />
