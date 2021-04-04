@@ -81,6 +81,21 @@ An online and free workshops where invited specialists will introduce the differ
 
 1) Getting started with Raspberry Pi
 
+> The official raspberry pi website: [https://www.raspberrypi.org/](https://www.raspberrypi.org/)
+
+* Minimum required components to complete Pregame and Session 1 
+* Raspberry Pi (recommended 3B+ or 4, but Zero W will work)
+* Power supply (USB-C for Pi4, micro-USB for 3B+)
+* miniHDMI to your monitor input (If using a Pi4)
+* SD card (recommended at 16GB)
+* SD to USB3 card reader
+* Camera module
+* Monitor, keyboard, and mouse
+
+> Amazon links to components: 
+[https://docs.google.com/spreadsheets/d/1FWf2UACafcr6_YfyNrALnwGCbzsCCHrPOg0iuMW8oNE/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1FWf2UACafcr6_YfyNrALnwGCbzsCCHrPOg0iuMW8oNE/edit?usp=sharing)
+
+
 Reference
 
 * [https://www.danforthcenter.org/our-work/principal-investigators/noah-fahlgren/](https://www.danforthcenter.org/our-work/principal-investigators/noah-fahlgren/)
