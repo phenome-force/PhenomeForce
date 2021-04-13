@@ -74,32 +74,38 @@ An online and free workshops where invited specialists will introduce the differ
 <br />
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/phenome-force/Images/master/redme/WS_2_1a.jpg" width="70%" height="70%">
+  <img src="https://raw.githubusercontent.com/phenome-force/Images/master/redme/WS_2_2.jpg" width="70%" height="70%">
 </p>
 
 <br />
 
-1) Getting started with Raspberry Pi
+2) Using TERRA REF high throughput, sensor-collected plant data with R
 
-> The official raspberry pi website: [https://www.raspberrypi.org/](https://www.raspberrypi.org/)
+Agenda
 
-* Minimum required components to complete Pregame and Session 1 
-* Raspberry Pi (recommended 3B+ or 4, but Zero W will work)
-* Power supply (USB-C for Pi4, micro-USB for 3B+)
-* miniHDMI to your monitor input (If using a Pi4)
-* SD card (recommended at 16GB)
-* SD to USB3 card reader
-* Camera module
-* Monitor, keyboard, and mouse
+10:00 - 10:20: Overview of TERRA REF experiment\
+10:20 - 10:30: Data on webapp and Dryad\
+10:30 - 11:00: Sensor data download and plot\
+11:00 - 11:05: break\
+11:05 - 11:20: Trait data download and plot\
+11:20 - 11:35: Weather data download and plot\
+11:35 - 11:50: Modeling example\
+11:50 - 12:00: Wrapup and additional questions
 
-> Amazon links to components: 
-[https://docs.google.com/spreadsheets/d/1FWf2UACafcr6_YfyNrALnwGCbzsCCHrPOg0iuMW8oNE/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1FWf2UACafcr6_YfyNrALnwGCbzsCCHrPOg0iuMW8oNE/edit?usp=sharing)
+Download/install - Kristina
+* Sign up for Globus account on https://www.globus.org/
+* Download Globus Connect Personal
+At https://www.globus.org/globus-connect-personal
+* Follow automated setup steps
 
+Download R and RStudio
+* R at https://www.r-project.org/
+* RStudio at https://rstudio.com/products/rstudio/download/
+* R packages: raster, dplyr, ggplot2
 
-Reference
-
-* [https://www.danforthcenter.org/our-work/principal-investigators/noah-fahlgren/](https://www.danforthcenter.org/our-work/principal-investigators/noah-fahlgren/)
-* [https://www.danforthcenter.org/our-work/core-facilities/data-science/](https://www.danforthcenter.org/our-work/core-facilities/data-science/)
+Download data from Dryad:
+* full package is 723 MB; this could take an hour on a slow (2Mbps) internet connection
+* Download manually at [https://datadryad.org/api/v2/datasets/doi%3A10.5061%2Fdryad.4b8gtht99/download](https://datadryad.org/api/v2/datasets/doi%3A10.5061%2Fdryad.4b8gtht99/download) 
 
 <br />
 
@@ -112,6 +118,22 @@ Reference
 ---------------------------------------------
 
 ### [YouTube](https://www.youtube.com/channel/UCJ_ZXrpzvmF4rgSI8W_inyQ)
+
+<br />
+
+#### **2020 Fridays Hands-On Workshop Series**
+
+<br />
+
+> 1) [Getting started with Raspberry Pi](https://www.youtube.com/watch?v=WC0oXKY47aU&t=4114s)
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/phenome-force/Images/master/redme/WS_2_1a.jpg" width="50%" height="50%">
+</p>
+
+<br />
+
+#### **2020 Fridays Hands-On Workshop Series**
 
 <br />
 
