@@ -59,7 +59,7 @@ An online and free workshops where invited specialists will introduce the differ
 |---	|---	|---	|
 | Noah Fahlgren & Jeff Berry | 09/Apr | Getting started with Raspberry Pi |
 | Kristina Riemer & David LeBauer | 16/Apr | Using TERRA REF high throughput, sensor-collected plant data with R |
-| David Rousseau | 23/Apr | RGB-Depth plant phenotyping from top view: system and image analysis |
+| David Rousseau, Mathis Cordier, Hadhami Garbouge | 23/Apr | RGB-Depth plant phenotyping from top view: system and image analysis |
 | Malia Gehan & Jose Tovar | 30/Apr | Measurement of plant phenotypes with low-cost Raspberry Pi computers and cameras | 
 | Suxing Liu & Wes Bonelli | 07/May | 3D root reconstruction efforts in arpa-e project |
 | Jennifer Lachowiec & Elizabeth Simmons | 14/May | The power of Pis and the powering of Pis |
