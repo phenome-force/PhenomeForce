@@ -74,38 +74,24 @@ An online and free workshops where invited specialists will introduce the differ
 <br />
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/phenome-force/Images/master/redme/WS_2_2.jpg" width="70%" height="70%">
+  <img src="https://raw.githubusercontent.com/phenome-force/Images/master/redme/WS_2_3.jpg" width="70%" height="70%">
 </p>
 
 <br />
 
-2) Using TERRA REF high throughput, sensor-collected plant data with R
+3) RGB-Depth plant phenotyping from top view: system and image analysis
 
 Agenda
 
-10:00 - 10:20: Overview of TERRA REF experiment\
-10:20 - 10:30: Data on webapp and Dryad\
-10:30 - 11:00: Sensor data download and plot\
-11:00 - 11:05: break\
-11:05 - 11:20: Trait data download and plot\
-11:20 - 11:35: Weather data download and plot\
-11:35 - 11:50: Modeling example\
-11:50 - 12:00: Wrapup and additional questions
+* How we use Raspberries at ImHorPhen (15 minutes David)
+* Presentation of biological usecases (15 minutes David)
+* Example of how to process stack of time lapse with Fiji (15 minutes David)
+* Processing data with our online software Growth Data (15 minutes Mathis)
+* Introduction to deep learning classification (15 minutes Mathis)
+* Hands on with Collab (30 minutes Hadhami, Mathis) 
+* Discussion and presentation of the IPPN workshop on Raspberry (15 minutes, All)
 
-Download/install - Kristina
-* Sign up for Globus account on https://www.globus.org/
-* Download Globus Connect Personal
-At https://www.globus.org/globus-connect-personal
-* Follow automated setup steps
-
-Download R and RStudio
-* R at https://www.r-project.org/
-* RStudio at https://rstudio.com/products/rstudio/download/
-* R packages: raster, dplyr, ggplot2
-
-Download data from Dryad:
-* full package is 723 MB; this could take an hour on a slow (2Mbps) internet connection
-* Download manually at [https://datadryad.org/api/v2/datasets/doi%3A10.5061%2Fdryad.4b8gtht99/download](https://datadryad.org/api/v2/datasets/doi%3A10.5061%2Fdryad.4b8gtht99/download) 
+**Participants are invited to get *Fiji* installed and have a *Gmail* account**.
 
 <br />
 
@@ -129,6 +115,14 @@ Download data from Dryad:
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/phenome-force/Images/master/redme/WS_2_1a.jpg" width="50%" height="50%">
+</p>
+
+<br />
+
+> 2) [Using TERRA REF high throughput, sensor-collected plant data with R](https://www.youtube.com/watch?v=MpXc8Yh75zg&t=5519s)
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/phenome-force/Images/master/redme/WS_2_2.jpg" width="50%" height="50%">
 </p>
 
 <br />
