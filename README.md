@@ -79,19 +79,11 @@ An online and free workshops where invited specialists will introduce the differ
 
 <br />
 
-3) RGB-Depth plant phenotyping from top view: system and image analysis
+**4) Measurement of plant phenotypes with low-cost Raspberry Pi computers and cameras**
 
-Agenda
+Jose and Malia will be logging on to some of their Raspberry Pis to show how they manage larger suites and talk about some of the logistics in physically setting up the hardware. 
 
-* How we use Raspberries at ImHorPhen (15 minutes David)
-* Presentation of biological usecases (15 minutes David)
-* Example of how to process stack of time lapse with Fiji (15 minutes David)
-* Processing data with our online software Growth Data (15 minutes Mathis)
-* Introduction to deep learning classification (15 minutes Mathis)
-* Hands on with Collab (30 minutes Hadhami, Mathis) 
-* Discussion and presentation of the IPPN workshop on Raspberry (15 minutes, All)
-
-**Participants are invited to get *Fiji* installed and have a *Gmail* account**.
+**GitHub repo is here:** [https://github.com/maliagehan/gehan-bramble](https://github.com/maliagehan/gehan-bramble)
 
 <br />
 
