@@ -99,7 +99,7 @@ Jose and Malia will be logging on to some of their Raspberry Pis to show how the
 
 <br />
 
-#### **2020 Fridays Hands-On Workshop Series**
+#### **2021 Fridays Hands-On Workshop Series**
 
 <br />
 
@@ -115,6 +115,14 @@ Jose and Malia will be logging on to some of their Raspberry Pis to show how the
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/phenome-force/Images/master/redme/WS_2_2.jpg" width="50%" height="50%">
+</p>
+
+<br />
+
+> 3) [RGB-Depth plant phenotyping from top view: system and image analysis](https://www.youtube.com/watch?v=A3R1zFoRSSg)
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/phenome-force/Images/master/redme/WS_2_3a.jpg" width="50%" height="50%">
 </p>
 
 <br />
