@@ -74,16 +74,25 @@ An online and free workshops where invited specialists will introduce the differ
 <br />
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/phenome-force/Images/master/redme/WS_2_3.jpg" width="70%" height="70%">
+  <img src="https://raw.githubusercontent.com/phenome-force/Images/master/redme/WS_2_5.jpg" width="70%" height="70%">
 </p>
 
 <br />
 
-**4) Measurement of plant phenotypes with low-cost Raspberry Pi computers and cameras**
+**5) 3D root reconstruction efforts in arpa-e project**
 
-Jose and Malia will be logging on to some of their Raspberry Pis to show how they manage larger suites and talk about some of the logistics in physically setting up the hardware. 
+> GitHub links: 
 
-**GitHub repo is here:** [https://github.com/maliagehan/gehan-bramble](https://github.com/maliagehan/gehan-bramble)
+* [https://github.com/Computational-Plant-Science/raspberry_pi_cluster](https://github.com/Computational-Plant-Science/raspberry_pi_cluster) 
+* [https://github.com/Computational-Plant-Science/3D_model_reconstruction_demo](https://github.com/Computational-Plant-Science/3D_model_reconstruction_demo) 
+* [https://github.com/Computational-Plant-Science/3D_model_traits_demo](https://github.com/Computational-Plant-Science/3D_model_traits_demo) 
+* [https://hub.docker.com/r/computationalplantscience/3d-model-reconstruction](https://hub.docker.com/r/computationalplantscience/3d-model-reconstruction) 
+* [https://hub.docker.com/r/computationalplantscience/arabidopsis-rosette-analysis](https://hub.docker.com/r/computationalplantscience/arabidopsis-rosette-analysis) 
+* [https://github.com/w-bonelli/simple-segmentation](https://github.com/w-bonelli/simple-segmentation) 
+
+> Docker container:  
+
+* [https://docs.docker.com/engine/install/ ](https://docs.docker.com/engine/install/) 
 
 <br />
 
@@ -126,6 +135,15 @@ Jose and Malia will be logging on to some of their Raspberry Pis to show how the
 </p>
 
 <br />
+
+> 4) [Measurement of plant phenotypes with low-cost Raspberry Pi computers and cameras](https://www.youtube.com/watch?v=4mT7I6PFNa4&t=2511s)
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/phenome-force/Images/master/redme/WS_2_3.jpg" width="50%" height="50%">
+</p>
+
+<br />
+
 
 #### **2020 Fridays Hands-On Workshop Series**
 
