@@ -131,7 +131,7 @@ An online and free workshops where invited specialists will introduce the differ
 > 3) [RGB-Depth plant phenotyping from top view: system and image analysis](https://www.youtube.com/watch?v=A3R1zFoRSSg)
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/phenome-force/Images/master/redme/WS_2_3a.jpg" width="50%" height="50%">
+  <img src="https://raw.githubusercontent.com/phenome-force/Images/master/redme/WS_2_3b.jpg" width="50%" height="50%">
 </p>
 
 <br />
