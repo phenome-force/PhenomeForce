@@ -61,7 +61,7 @@ An online and free workshops where invited specialists will introduce the differ
 | Kristina Riemer & David LeBauer | 16/Apr | Using TERRA REF high throughput, sensor-collected plant data with R |
 | David Rousseau, Mathis Cordier, Hadhami Garbouge | 23/Apr | RGB-Depth plant phenotyping from top view: system and image analysis |
 | Malia Gehan & Jose Tovar | 30/Apr | Measurement of plant phenotypes with low-cost Raspberry Pi computers and cameras | 
-| Suxing Liu & Wes Bonelli | 07/May | 3D root reconstruction efforts in arpa-e project |
+| Suxing Liu & Wes Bonelli | 07/May | Open tools for low-cost 3D root phenotyping |
 | Jennifer Lachowiec & Elizabeth Simmons | 14/May | The power of Pis and the powering of Pis |
 | Max Feldman | 21/May | Scalable, cost-effective phenotyping solutions to facilitate quantitative genetics in potato |
 | Duke Pauli | 28/May | PhytoOracle: A scalable, modular data processing pipeline for phenomic data |
@@ -79,7 +79,7 @@ An online and free workshops where invited specialists will introduce the differ
 
 <br />
 
-**5) 3D root reconstruction efforts in arpa-e project**
+**5) Open tools for low-cost 3D root phenotyping**
 
 > GitHub links: 
 
