@@ -74,25 +74,12 @@ An online and free workshops where invited specialists will introduce the differ
 <br />
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/phenome-force/Images/master/redme/WS_2_5a.jpg" width="70%" height="70%">
+  <img src="https://raw.githubusercontent.com/phenome-force/Images/master/redme/WS_2_05.jpg" width="70%" height="70%">
 </p>
 
 <br />
 
-**5) Open tools for low-cost 3D root phenotyping**
-
-> GitHub links: 
-
-* [https://github.com/Computational-Plant-Science/raspberry_pi_cluster](https://github.com/Computational-Plant-Science/raspberry_pi_cluster) 
-* [https://github.com/Computational-Plant-Science/3D_model_reconstruction_demo](https://github.com/Computational-Plant-Science/3D_model_reconstruction_demo) 
-* [https://github.com/Computational-Plant-Science/3D_model_traits_demo](https://github.com/Computational-Plant-Science/3D_model_traits_demo) 
-* [https://hub.docker.com/r/computationalplantscience/3d-model-reconstruction](https://hub.docker.com/r/computationalplantscience/3d-model-reconstruction) 
-* [https://hub.docker.com/r/computationalplantscience/arabidopsis-rosette-analysis](https://hub.docker.com/r/computationalplantscience/arabidopsis-rosette-analysis) 
-* [https://github.com/w-bonelli/simple-segmentation](https://github.com/w-bonelli/simple-segmentation) 
-
-> Docker container:  
-
-* [https://docs.docker.com/engine/install/ ](https://docs.docker.com/engine/install/) 
+**6) The power of Pis and the powering of Pis**
 
 <br />
 
@@ -137,6 +124,15 @@ An online and free workshops where invited specialists will introduce the differ
 <br />
 
 > 4) [Measurement of plant phenotypes with low-cost Raspberry Pi computers and cameras](https://www.youtube.com/watch?v=4mT7I6PFNa4&t=2511s)
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/phenome-force/Images/master/redme/WS_2_3.jpg" width="50%" height="50%">
+</p>
+
+<br />
+
+
+> 5) [Open tools for low-cost 3D root phenotyping](https://www.youtube.com/watch?v=T1hCgfBZBfc)
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/phenome-force/Images/master/redme/WS_2_3.jpg" width="50%" height="50%">
