@@ -135,7 +135,7 @@ An online and free workshops where invited specialists will introduce the differ
 > 5) [Open tools for low-cost 3D root phenotyping](https://www.youtube.com/watch?v=T1hCgfBZBfc)
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/phenome-force/Images/master/redme/WS_2_3.jpg" width="50%" height="50%">
+  <img src="https://raw.githubusercontent.com/phenome-force/Images/master/redme/WS_2_5.jpg" width="50%" height="50%">
 </p>
 
 <br />
