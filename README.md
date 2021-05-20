@@ -81,14 +81,14 @@ An online and free workshops where invited specialists will introduce the differ
 
 **7) Scalable, cost-effective phenotyping solutions to facilitate quantitative genetics in potato.**
 
-A little about hardware control:
-https://github.com/maxjfeldman/Feldman_hardware_control
+* A little about hardware control:
+[https://github.com/maxjfeldman/Feldman_hardware_control](https://github.com/maxjfeldman/Feldman_hardware_control)
  
-Brief intro to computer vision applied to potatoes:
-https://github.com/maxjfeldman/python_opencv_tutorial
+* Brief intro to computer vision applied to potatoes:
+[https://github.com/maxjfeldman/python_opencv_tutorial](https://github.com/maxjfeldman/python_opencv_tutorial)
  
-And some analysis of a dataset collected using this platform:
-https://github.com/maxjfeldman/Park_Feldman_Tuber_Imaging_2021
+* And some analysis of a dataset collected using this platform:
+[https://github.com/maxjfeldman/Park_Feldman_Tuber_Imaging_2021](https://github.com/maxjfeldman/Park_Feldman_Tuber_Imaging_2021)
 
 <br />
 
