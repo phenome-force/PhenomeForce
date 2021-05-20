@@ -74,12 +74,21 @@ An online and free workshops where invited specialists will introduce the differ
 <br />
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/phenome-force/Images/master/redme/WS_2_6.jpg" width="70%" height="70%">
+  <img src="https://raw.githubusercontent.com/phenome-force/Images/master/redme/WS2_07.jpg" width="70%" height="70%">
 </p>
 
 <br />
 
-**6) The power of Pis and the powering of Pis**
+**7) Scalable, cost-effective phenotyping solutions to facilitate quantitative genetics in potato.**
+
+A little about hardware control:
+https://github.com/maxjfeldman/Feldman_hardware_control
+ 
+Brief intro to computer vision applied to potatoes:
+https://github.com/maxjfeldman/python_opencv_tutorial
+ 
+And some analysis of a dataset collected using this platform:
+https://github.com/maxjfeldman/Park_Feldman_Tuber_Imaging_2021
 
 <br />
 
@@ -136,6 +145,14 @@ An online and free workshops where invited specialists will introduce the differ
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/phenome-force/Images/master/redme/WS_2_5.jpg" width="50%" height="50%">
+</p>
+
+<br />
+
+> 6) [The power of Pis and the powering of Pis](https://www.youtube.com/watch?v=-1qeXBs7nZk)
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/phenome-force/Images/master/redme/WS_2_6.jpg" width="50%" height="50%">
 </p>
 
 <br />
