@@ -74,21 +74,16 @@ An online and free workshops where invited specialists will introduce the differ
 <br />
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/phenome-force/Images/master/redme/WS2_07.jpg" width="70%" height="70%">
+  <img src="https://raw.githubusercontent.com/phenome-force/Images/master/redme/WS_2_8.jpg" width="70%" height="70%">
 </p>
 
 <br />
 
-**7) Scalable, cost-effective phenotyping solutions to facilitate quantitative genetics in potato.**
+**8) PhytoOracle: A scalable, modular data processing pipeline for phenomic data**
 
-* A little about hardware control:
-[https://github.com/maxjfeldman/Feldman_hardware_control](https://github.com/maxjfeldman/Feldman_hardware_control)
- 
-* Brief intro to computer vision applied to potatoes:
-[https://github.com/maxjfeldman/python_opencv_tutorial](https://github.com/maxjfeldman/python_opencv_tutorial)
- 
-* And some analysis of a dataset collected using this platform:
-[https://github.com/maxjfeldman/Park_Feldman_Tuber_Imaging_2021](https://github.com/maxjfeldman/Park_Feldman_Tuber_Imaging_2021)
+* Pipeline: [https://github.com/LyonsLab/PhytoOracle](https://github.com/LyonsLab/PhytoOracle)
+* Repository: [https://github.com/phytooracle](https://github.com/phytooracle)
+* Documentation: [https://phytooracle.readthedocs.io/en/latest/](https://phytooracle.readthedocs.io/en/latest/)
 
 <br />
 
@@ -157,6 +152,13 @@ An online and free workshops where invited specialists will introduce the differ
 
 <br />
 
+> 7) [Scalable, cost-effective phenotyping solutions to facilitate quantitative genetics in potato](https://www.youtube.com/watch?v=OENLevuJ2dw&t=9s)
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/phenome-force/Images/master/redme/WS2_07.jpg" width="50%" height="50%">
+</p>
+
+<br />
 
 #### **2020 Fridays Hands-On Workshop Series**
 
