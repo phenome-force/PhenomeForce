@@ -74,16 +74,17 @@ An online and free workshops where invited specialists will introduce the differ
 <br />
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/phenome-force/Images/master/redme/WS_2_8.jpg" width="70%" height="70%">
+  <img src="https://raw.githubusercontent.com/phenome-force/Images/master/redme/WS_2_9.jpg" width="70%" height="70%">
 </p>
 
 <br />
 
-**8) PhytoOracle: A scalable, modular data processing pipeline for phenomic data**
+**9) Use of an Arduino platform for obtaining long term pH readings in plant tissue**
 
-* Pipeline: [https://github.com/LyonsLab/PhytoOracle](https://github.com/LyonsLab/PhytoOracle)
-* Repository: [https://github.com/phytooracle](https://github.com/phytooracle)
-* Documentation: [https://phytooracle.readthedocs.io/en/latest/](https://phytooracle.readthedocs.io/en/latest/)
+> Hands-On links:
+
+* [https://store.arduino.cc/digital/create](https://store.arduino.cc/digital/create)
+* [https://github.com/McGillHaricots/peas-andlove/blob/master/Arduino/pH-voltmeter-code.ino](https://github.com/McGillHaricots/peas-andlove/blob/master/Arduino/pH-voltmeter-code.ino)
 
 <br />
 
@@ -156,6 +157,14 @@ An online and free workshops where invited specialists will introduce the differ
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/phenome-force/Images/master/redme/WS2_07.jpg" width="50%" height="50%">
+</p>
+
+<br />
+
+> 8) [PhytoOracle: A scalable, modular data processing pipeline for phenomic data](https://www.youtube.com/watch?v=Ig6Ksyr8xe8)
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/phenome-force/Images/master/redme/WS_2_8.jpg" width="50%" height="50%">
 </p>
 
 <br />
