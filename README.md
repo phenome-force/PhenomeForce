@@ -66,6 +66,7 @@ An online and free workshops where invited specialists will introduce the differ
 | Max Feldman | 21/May | Scalable, cost-effective phenotyping solutions to facilitate quantitative genetics in potato |
 | Duke Pauli | 28/May | PhytoOracle: A scalable, modular data processing pipeline for phenomic data |
 | Jennifer Lin | 04/Jun | Use of an Arduino platform for obtaining long term pH readings in plant tissue |
+| Paulo Flores & Diego Gris | 11/Jun | The basics of drone flights and data extraction for small plot research |
 
 <br />
 
@@ -74,17 +75,16 @@ An online and free workshops where invited specialists will introduce the differ
 <br />
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/phenome-force/Images/master/redme/WS_2_9.jpg" width="70%" height="70%">
+  <img src="https://raw.githubusercontent.com/phenome-force/Images/master/redme/WS_2_10.jpg" width="70%" height="70%">
 </p>
 
 <br />
 
-**9) Use of an Arduino platform for obtaining long term pH readings in plant tissue**
+**10) The basics of drone flights and data extraction for small plot research**
 
 > Hands-On links:
 
-* [https://store.arduino.cc/digital/create](https://store.arduino.cc/digital/create)
-* [https://github.com/McGillHaricots/peas-andlove/blob/master/Arduino/pH-voltmeter-code.ino](https://github.com/McGillHaricots/peas-andlove/blob/master/Arduino/pH-voltmeter-code.ino)
+* [https://www.ndsu.edu/aben/faculty_and_staff/personnel/dr_paulo_flores_assistant_professor/](https://www.ndsu.edu/aben/faculty_and_staff/personnel/dr_paulo_flores_assistant_professor/)
 
 <br />
 
@@ -165,6 +165,14 @@ An online and free workshops where invited specialists will introduce the differ
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/phenome-force/Images/master/redme/WS_2_8.jpg" width="50%" height="50%">
+</p>
+
+<br />
+
+> 9) [Use of an Arduino platform for obtaining long term pH readings in plant tissue](https://www.youtube.com/watch?v=eCiipRKfwjI&t=1246s)
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/phenome-force/Images/master/redme/WS_2_9.jpg" width="50%" height="50%">
 </p>
 
 <br />
