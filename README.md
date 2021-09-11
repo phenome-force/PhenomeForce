@@ -177,6 +177,14 @@ An online and free workshops where invited specialists will introduce the differ
 
 <br />
 
+> 10) [The basics of drone flights and data extraction for small plot research](https://www.youtube.com/watch?v=wrPPKSniXW0&t=4117s)
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/phenome-force/Images/master/redme/WS_2_10.jpg" width="50%" height="50%">
+</p>
+
+<br />
+
 #### **2020 Fridays Hands-On Workshop Series**
 
 <br />
