@@ -45,28 +45,24 @@ This group is a platform imagined as an interactive “ _metabolic network_ ”,
 
 ---------------------------------------------
 
-### [**2021 Fridays Hands-On Workshop Series**: "Setting up low-cost phenotyping platforms" ](https://www.youtube.com/channel/UCJ_ZXrpzvmF4rgSI8W_inyQ)
+### [**2021 Fridays Hands-On Workshop Series**: "Principles, Protocols, and Pipelines for Drone Phenotyping" ](https://www.youtube.com/channel/UCJ_ZXrpzvmF4rgSI8W_inyQ)
 
-An online and free workshops where invited specialists will introduce the different applications and approaches in plant phenomics. The main focus of the proposed series of workshops, called “Fridays Hands-On Workshop Series,” will be data management and analysis - often the most challenging part of digital phenotyping. Each workshop will include a short theoretical introduction followed by practical data analysis, where the instructors will guide the audience through available and open-source data, tools, and codes. 
+This fall, we will have the 3rd season of the Fridays Hands-On Workshop Series, which will partner with Drone2Phenome (D2P), a new multi-institutional group focused on empowering researchers who use UAVs in plant and animal agricultural research. D2P wants to understand how people use UAVs in their research to identify patterns and principles that can provide a foundation for shared protocols and pipelines. With this in mind, this year's workshop series will focus primarily on drone image acquisition and analysis. D2P will be using this as an opportunity to curate and share protocols. Usually, the workshop lasts about 2 hours and includes a hands-on section and it is broadcasted live on our Phenome-Force YouTube Channel.  
 
 <br />  
 
-  **Registration:** [https://forms.gle/PVSf3AkxyvncTVrm9](https://forms.gle/PVSf3AkxyvncTVrm9)
+  **Registration:** [https://forms.gle/SAmPXZXP8BfYW6gDA](https://forms.gle/SAmPXZXP8BfYW6gDA)
 
 <br />
 
 | Speakers   	| Date   	| Workshop   	|
 |---	|---	|---	|
-| Noah Fahlgren & Jeff Berry | 09/Apr | Getting started with Raspberry Pi |
-| Kristina Riemer & David LeBauer | 16/Apr | Using TERRA REF high throughput, sensor-collected plant data with R |
-| David Rousseau, Mathis Cordier, Hadhami Garbouge | 23/Apr | RGB-Depth plant phenotyping from top view: system and image analysis |
-| Malia Gehan & Jose Tovar | 30/Apr | Measurement of plant phenotypes with low-cost Raspberry Pi computers and cameras | 
-| Suxing Liu & Wes Bonelli | 07/May | Open tools for low-cost 3D root phenotyping |
-| Jennifer Lachowiec & Elizabeth Simmons | 14/May | The power of Pis and the powering of Pis |
-| Max Feldman | 21/May | Scalable, cost-effective phenotyping solutions to facilitate quantitative genetics in potato |
-| Duke Pauli | 28/May | PhytoOracle: A scalable, modular data processing pipeline for phenomic data |
-| Jennifer Lin | 04/Jun | Use of an Arduino platform for obtaining long term pH readings in plant tissue |
-| Paulo Flores & Diego Gris | 11/Jun | The basics of drone flights and data extraction for small plot research |
+| Atena Haghighattalab | 29/Oct |  |
+| Chongyuan Zhang | 5/Nov |  |
+| Zhou Zhang | 12/Nov |  |
+| Jinha Jung | 19/Nov |  | 
+| Ce Yang | 26/Nov |  |
+| Margaret Kruase | 03/Dec |  |
 
 <br />
 
@@ -75,16 +71,16 @@ An online and free workshops where invited specialists will introduce the differ
 <br />
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/phenome-force/Images/master/redme/WS_2_10.jpg" width="70%" height="70%">
+  <img src="https://raw.githubusercontent.com/phenome-force/Images/master/redme/WS_3_Flyer.jpg">
 </p>
 
 <br />
 
-**10) The basics of drone flights and data extraction for small plot research**
+**1) Atena Haghighattalab **
 
 > Hands-On links:
 
-* [https://www.ndsu.edu/aben/faculty_and_staff/personnel/dr_paulo_flores_assistant_professor/](https://www.ndsu.edu/aben/faculty_and_staff/personnel/dr_paulo_flores_assistant_professor/)
+* 
 
 <br />
 
