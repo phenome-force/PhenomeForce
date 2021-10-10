@@ -57,12 +57,12 @@ This fall, we will have the 3rd season of the Fridays Hands-On Workshop Series, 
 
 | Speakers   	| Date   	| Workshop   	|
 |---	|---	|---	|
-| Atena Haghighattalab | 29/Oct |  |
-| Chongyuan Zhang | 5/Nov |  |
-| Zhou Zhang | 12/Nov |  |
-| Jinha Jung | 19/Nov |  | 
-| Ce Yang | 26/Nov |  |
-| Margaret Kruase | 03/Dec |  |
+| Atena Haghighattalab | 29/Oct | Implementation of high throughput phenotyping pipelines on large plant breeding programs |
+| Chongyuan Zhang | 5/Nov | Crop trait phenotyping in plant breeding programs using UAS and feature extraction pipeline |
+| Zhou Zhang | 12/Nov | How to share UAS data using public clouds |
+| Jinha Jung | 19/Nov | Measurement and calibration of plant-height using UAV images | 
+| Ce Yang | 26/Nov | How to use hyperspectral imaging for classification of diseased in plants |
+| Margaret Kruase | 03/Dec | Predicting grain yield with aerial hyperspectral reflectance data |
 
 <br />
 
