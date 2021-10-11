@@ -59,10 +59,10 @@ This fall, we will have the 3rd season of the Fridays Hands-On Workshop Series, 
 |---	|---	|---	|
 | Atena Haghighattalab | 29/Oct | Implementation of high throughput phenotyping pipelines on large plant breeding programs |
 | Chongyuan Zhang | 5/Nov | Crop trait phenotyping in plant breeding programs using UAS and feature extraction pipeline |
-| Zhou Zhang | 12/Nov | How to share UAS data using public clouds |
-| Jinha Jung | 19/Nov | Measurement and calibration of plant-height using UAV images | 
+| Zhou Zhang | 12/Nov | Alfalfa yield and quality prediction using UAV-based hyperspectral imagery |
+| Jinha Jung | 19/Nov | How to share UAS data using public clouds | 
 | Margaret Kruase | 03/Dec | Predicting grain yield with aerial hyperspectral reflectance data |
-| Ce Yang | 10/Dec | How to use hyperspectral imaging for classification of diseased in plants |
+| Ce Yang & Tyler Nigon | 10/Dec | The influence of drone hyperspectral imaging workflow on corn nitrogen uptake prediction |
 
 <br />
 
