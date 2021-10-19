@@ -62,7 +62,7 @@ This fall, we will have the 3rd season of the Fridays Hands-On Workshop Series, 
 | Zhou Zhang | 12/Nov | Alfalfa yield and quality prediction using UAV-based hyperspectral imagery |
 | Jinha Jung | 19/Nov | How to share UAS data using public clouds | 
 | Margaret Kruase | 03/Dec | Predicting grain yield with aerial hyperspectral reflectance data |
-| Ce Yang & Tyler Nigon | 10/Dec | The influence of drone hyperspectral imaging workflow on corn nitrogen uptake prediction |
+| Ce Yang & Tyler Nigon | 10/Dec | An automated approach for spatial cropping and plot identification of hyperspectral aerial imagery used in small-plot and on-farm research |
 
 <br />
 
