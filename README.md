@@ -71,16 +71,16 @@ This fall, we will have the 3rd season of the Fridays Hands-On Workshop Series, 
 <br />
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/phenome-force/Images/master/redme/WS_3_Flyer.jpg">
+  <img src="https://raw.githubusercontent.com/phenome-force/Images/master/redme/WS_03_1.jpg">
 </p>
 
 <br />
 
-**1) Atena Haghighattalab **
+**1) Workshop: Implementation of high throughput phenotyping pipelines on large plant breeding programs**
 
-> Hands-On links:
+> Speaker: **Atena Haghighattalab**
 
-* 
+* Hands-On links:[https://github.com/atenah](https://github.com/atenah)
 
 <br />
 
