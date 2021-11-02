@@ -71,16 +71,16 @@ This fall, we will have the 3rd season of the Fridays Hands-On Workshop Series, 
 <br />
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/phenome-force/Images/master/redme/WS_03_1.jpg">
+  <img src="https://raw.githubusercontent.com/phenome-force/Images/master/redme/WS_03_2.jpg">
 </p>
 
 <br />
 
-**1) Workshop: Implementation of high throughput phenotyping pipelines on large plant breeding programs**
+**Workshop-02: Crop trait phenotyping in plant breeding programs using UAS and feature extraction pipeline**
 
-> Speaker: **Atena Haghighattalab**
+> Speaker: **Chongyuan Zhang**
 
-* Hands-On links:[https://github.com/atenah](https://github.com/atenah)
+* Hands-On links: [https://ag.purdue.edu/btny/cdcruzlab/](https://ag.purdue.edu/btny/cdcruzlab/)
 
 <br />
 
