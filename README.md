@@ -80,7 +80,7 @@ This fall, we will have the 3rd season of the Fridays Hands-On Workshop Series, 
 
 > Speaker: **Chongyuan Zhang**
 
-* Hands-On links: [https://ag.purdue.edu/btny/cdcruzlab/](https://ag.purdue.edu/btny/cdcruzlab/)
+* Hands-On links: [https://zenodo.org/record/4631229#.YYPkFBwpBUe](https://zenodo.org/record/4631229#.YYPkFBwpBUe)
 
 <br />
 
