@@ -71,16 +71,16 @@ This fall, we will have the 3rd season of the Fridays Hands-On Workshop Series, 
 <br />
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/phenome-force/Images/master/redme/WS_03_2.jpg">
+  <img src="https://raw.githubusercontent.com/phenome-force/Images/master/redme/WS_03_3.jpg">
 </p>
 
 <br />
 
-**Workshop-02: Crop trait phenotyping in plant breeding programs using UAS and feature extraction pipeline**
+**Workshop-03: Alfalfa yield and quality prediction using UAV-based hyperspectral imagery**
 
-> Speaker: **Chongyuan Zhang**
+> Speaker: **Zhou Zhang**
 
-* Hands-On links: [https://zenodo.org/record/4631229#.YYPkFBwpBUe](https://zenodo.org/record/4631229#.YYPkFBwpBUe)
+* Hands-On links: [https://digitalag.bse.wisc.edu/](https://digitalag.bse.wisc.edu/)
 
 <br />
 
@@ -96,7 +96,27 @@ This fall, we will have the 3rd season of the Fridays Hands-On Workshop Series, 
 
 <br />
 
-#### **2021 Fridays Hands-On Workshop Series**
+#### **Fridays Hands-On Workshop Series 0.3**
+
+<br />
+
+> 1) [Implementation of high throughput phenotyping pipelines on large plant breeding programs](https://www.youtube.com/watch?v=LfTVL6GYorA&t=1130s)
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/phenome-force/Images/master/redme/WS_03_1.jpg" width="50%" height="50%">
+</p>
+
+<br />
+
+> 2) [Crop trait phenotyping in plant breeding programs using UAS and feature extraction pipeline](https://www.youtube.com/watch?v=qVvbi03Ca94)
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/phenome-force/Images/master/redme/WS_03_2.jpg" width="50%" height="50%">
+</p>
+
+<br />
+
+#### **Fridays Hands-On Workshop Series 0.2**
 
 <br />
 
@@ -181,7 +201,7 @@ This fall, we will have the 3rd season of the Fridays Hands-On Workshop Series, 
 
 <br />
 
-#### **2020 Fridays Hands-On Workshop Series**
+#### **Fridays Hands-On Workshop Series 0.1**
 
 <br />
 
