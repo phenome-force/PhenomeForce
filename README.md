@@ -63,6 +63,7 @@ This fall, we will have the 3rd season of the Fridays Hands-On Workshop Series, 
 | Jinha Jung | 19/Nov | How to share UAS data using public clouds | 
 | Margaret Kruase | 03/Dec | Predicting grain yield with aerial hyperspectral reflectance data |
 | Ce Yang & Tyler Nigon | 10/Dec | An automated approach for spatial cropping and plot identification of hyperspectral aerial imagery used in small-plot and on-farm research |
+| Alper Adak | 17/Dec | UAV image and data analysis pipeline using R tools |
 
 <br />
 
