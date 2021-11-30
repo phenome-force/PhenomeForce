@@ -72,16 +72,16 @@ This fall, we will have the 3rd season of the Fridays Hands-On Workshop Series, 
 <br />
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/phenome-force/Images/master/redme/WS_03_3.jpg">
+  <img src="https://raw.githubusercontent.com/phenome-force/Images/master/redme/WS3_5.jpg">
 </p>
 
 <br />
 
-**Workshop-03: Alfalfa yield and quality prediction using UAV-based hyperspectral imagery**
+**Workshop-05: Predicting grain yield with aerial hyperspectral reflectance data**
 
-> Speaker: **Zhou Zhang**
+> Speaker: **Margaret Kruase**
 
-* Hands-On links: [https://digitalag.bse.wisc.edu/](https://digitalag.bse.wisc.edu/)
+* Webpage links: [https://psc.usu.edu/directory/faculty/krause-margaret](https://psc.usu.edu/directory/faculty/krause-margaret)
 
 <br />
 
