@@ -72,16 +72,16 @@ This fall, we will have the 3rd season of the Fridays Hands-On Workshop Series, 
 <br />
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/phenome-force/Images/master/redme/WS3_5.jpg">
+  <img src="https://raw.githubusercontent.com/phenome-force/Images/master/redme/WS3_6.jpg">
 </p>
 
 <br />
 
-**Workshop-05: Predicting grain yield with aerial hyperspectral reflectance data**
+**Workshop-06: An automated approach for spatial cropping and plot identification of hyperspectral aerial imagery used in small-plot and on-farm research**
 
-> Speaker: **Margaret Kruase**
+> Speaker: **Ce Yang & Tyler Nigon**
 
-* Webpage links: [https://psc.usu.edu/directory/faculty/krause-margaret](https://psc.usu.edu/directory/faculty/krause-margaret)
+* Webpage links: [https://yanglab.bbe.umn.edu/](https://yanglab.bbe.umn.edu/)
 
 <br />
 
@@ -113,6 +113,30 @@ This fall, we will have the 3rd season of the Fridays Hands-On Workshop Series, 
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/phenome-force/Images/master/redme/WS_03_2.jpg" width="50%" height="50%">
+</p>
+
+<br />
+
+> 3) [Alfalfa yield and quality prediction using UAV-based hyperspectral imagery](https://www.youtube.com/watch?v=of9LBzcIaFU&t=3156s)
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/phenome-force/Images/master/redme/WS_03_3.jpg" width="50%" height="50%">
+</p>
+
+<br />
+
+> 4) [How to share UAS data using public clouds](https://www.youtube.com/watch?v=E05FbLOPFpQ&t=1915s)
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/phenome-force/Images/master/redme/WS3_4.jpg" width="50%" height="50%">
+</p>
+
+<br />
+
+> 5) [Predicting grain yield with aerial hyperspectral reflectance data](https://www.youtube.com/watch?v=QR76nXl0E7U)
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/phenome-force/Images/master/redme/WS3_5.jpg" width="50%" height="50%">
 </p>
 
 <br />
