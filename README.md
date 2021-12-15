@@ -72,16 +72,16 @@ This fall, we will have the 3rd season of the Fridays Hands-On Workshop Series, 
 <br />
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/phenome-force/Images/master/redme/WS3_6.jpg">
+  <img src="https://raw.githubusercontent.com/phenome-force/Images/master/redme/WS3_7.jpg">
 </p>
 
 <br />
 
-**Workshop-06: An automated approach for spatial cropping and plot identification of hyperspectral aerial imagery used in small-plot and on-farm research**
+**Workshop-07:  UAV pipeline for image and data analysis using R tools**
 
-> Speaker: **Ce Yang & Tyler Nigon**
+> Speaker: **Alper Adak**
 
-* Webpage links: [https://yanglab.bbe.umn.edu/](https://yanglab.bbe.umn.edu/)
+* GitHub links: [https://github.com/alperadak/PhenomeForce](https://github.com/alperadak/PhenomeForce)
 
 <br />
 
